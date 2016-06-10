@@ -12,8 +12,8 @@
     }
   ],
   "autoload": {
-    "psr-0": {
-      "Simcu\\Thrift": "src/"
+    "psr-4": {
+      "Simcu\\Thrift\\": "src/"
     }
   }
 }

@@ -1,4 +1,4 @@
-<?php
+<?php namespace Simcu\Thrift;
 /**
  * Created by IntelliJ IDEA.
  * User: xRain
