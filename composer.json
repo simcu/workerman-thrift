@@ -1,0 +1,14 @@
+{
+    "name": "simcu/workerman-thrift",
+    "description": "A Workerman thrift package",
+    "require": {
+        "workerman/workerman": "^3.3"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "xRain",
+            "email": "xrain@simcu.com"
+        }
+    ]
+}
